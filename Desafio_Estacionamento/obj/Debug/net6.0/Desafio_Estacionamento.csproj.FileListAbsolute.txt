@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\bin\Debug\net6.0\Desafio_Estacionamento.exe
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\bin\Debug\net6.0\Desafio_Estacionamento.deps.json
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\bin\Debug\net6.0\Desafio_Estacionamento.runtimeconfig.json
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\bin\Debug\net6.0\Desafio_Estacionamento.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\bin\Debug\net6.0\Desafio_Estacionamento.pdb
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\refint\Desafio_Estacionamento.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.pdb
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\Desafio_Estacionamento.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Estacionamento\obj\Debug\net6.0\ref\Desafio_Estacionamento.dll
