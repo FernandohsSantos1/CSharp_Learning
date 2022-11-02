@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.exe
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.deps.json
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.runtimeconfig.json
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\bin\Debug\net6.0\Desafio_Hotel.pdb
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\refint\Desafio_Hotel.dll
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.pdb
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\Desafio_Hotel.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\C#.Learning\Desafio_Hotel\obj\Debug\net6.0\ref\Desafio_Hotel.dll
